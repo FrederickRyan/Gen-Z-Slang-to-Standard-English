@@ -1,2 +1,6 @@
 ECHO is on.
 bart_proposed_final/
+bart_baseline_final/
+*.pt
+*.bin
+*.ckpt
