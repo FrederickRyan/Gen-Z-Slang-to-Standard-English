@@ -14,9 +14,13 @@ https://drive.google.com/drive/folders/1hGP9vbsiiDdfTC8rWEtOFmUO6tZKvUXL?usp=sha
 After downloading, extract and place them in the project root:
 
 project/
+
 │── app.py
+
 │── requirements.txt
+
 │── bart\_proposed\_final/
+
 │── bart\_baseline\_final/
 
 
@@ -25,8 +29,11 @@ IMPORTANT
 
 1. install dependencies
    a. create env (make sure to cd-ed into the folder that has requirements.txt)
+   
    python -m venv \[insert\_name]
+   
    .\[insert\_name]\\Scripts\\activate
+   
    pip install -r requirements.txt # wait and profit
 
 b. install the enviorments
