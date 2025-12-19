@@ -28,6 +28,7 @@ project/
 IMPORTANT
 
 1. install dependencies
+   
    a. create env (make sure to cd-ed into the folder that has requirements.txt)
    
    python -m venv \[insert\_name]
@@ -36,8 +37,10 @@ IMPORTANT
    
    pip install -r requirements.txt # wait and profit
 
-b. install the enviorments
-pip install -r requirements.txt
+   b. install the enviorments
+   
+   pip install -r requirements.txt
 
 2. launch app
+3. 
    streamlit run app.py
