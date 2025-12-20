@@ -6,7 +6,7 @@ are NOT stored in this repository.
 Please download the model folders from Google Drive:
 
 BART Proposed Model:
-https://drive.google.com/drive/folders/15\_RbymihgCHQ8aDSaq0GnaQEAGPrHUMe?usp=sharing
+https://drive.google.com/drive/folders/15_RbymihgCHQ8aDSaq0GnaQEAGPrHUMe?usp=sharing
 
 BART Baseline Model:
 https://drive.google.com/drive/folders/1hGP9vbsiiDdfTC8rWEtOFmUO6tZKvUXL?usp=sharing
